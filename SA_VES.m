@@ -1,6 +1,7 @@
 %Program pemodelan inversi kurva sounding resistivitas 1-D dengan
 %menggunakan algoritma Simulated Annealing (SA)
 %Mohammad Rheza Zamani
+%Reference : Grandis,H.(2009): Pengantar pemodelan inversi geofisika, Jakarta:HAGI
 clear all;
 clc;
 %Input data sintetik

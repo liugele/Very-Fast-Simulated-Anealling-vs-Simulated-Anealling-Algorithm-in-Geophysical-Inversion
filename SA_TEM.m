@@ -4,7 +4,7 @@
 
 %Reference : Grandis,H.(2009): Pengantar pemodelan inversi geofisika, Jakarta:HAGI
 
-%Reference : W. Srigutomo, M. Heriyanto, and M. Hilmi Aufa. Gravity Inversion of Talwani Model using Very Fast Simulated Annealing. Journal of Mathematical and Fundamental Sciences, Vol. 51, No. 2, 2019, 177-190. doi: 10.5614/j.math.fund.sci.2019.51.2.7.
+
 clear all;
 clc;
 format long
